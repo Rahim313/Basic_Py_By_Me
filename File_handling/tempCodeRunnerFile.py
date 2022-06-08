@@ -1,0 +1,6 @@
+f=open("My.txt",'r')
+#data=f.read()
+lineonly=f.readlines()
+#print(data)
+print(lineonly)
+f.close()
